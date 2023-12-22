@@ -1,2 +1,2 @@
-# lomb
-Lomb é um projeto para estudar idiomas baseado nos ensinamentos da poliglota Kató Lomb
+# Lomb
+Lomb é uma plataforma para estudar idiomas baseado nos ensinamentos da poliglota Kató Lomb
